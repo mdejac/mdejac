@@ -1,5 +1,8 @@
-### UNDER CONSTRUCTION
-
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/9vxfvGk/under-construction-g8a42d8f48-1280.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.ibb.co/9vxfvGk/under-construction-g8a42d8f48-1280.jpg">
+ <img alt="Under construction image" src="https://i.ibb.co/9vxfvGk/under-construction-g8a42d8f48-1280.jpg" border="0">
+</picture>
 <!--
 **mdejac/mdejac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
